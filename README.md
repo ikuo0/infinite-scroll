@@ -1,7 +1,7 @@
 # infinite-scroll
 無限スクロール
 
-# javascript で永久にスクロールするサンプルです
+# javascript で無限にスクロールするサンプルです
 サンプル動作はこちら
 [https://ikuo0.github.io/infinite-scroll/infinite_scroll.html](https://ikuo0.github.io/infinite-scroll/infinite_scroll.html)
 
