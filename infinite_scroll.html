@@ -1,0 +1,27 @@
+<html lang="ja">
+<head>
+    <meta charset="utf-8">
+    
+    <!--script type="text/javascript" src="./like_a_note.js"></script-->
+    
+    <title>
+        永久スクロール
+    </title>
+
+</head>
+<body>
+    
+    <div id="main-contents" noscroll>
+    </div>
+
+<script type="text/javascript">
+window.addEventListener('load', function(){
+    var x = new InfiniteScroll();
+    x.start();
+});
+</script>
+
+<script src="infinite_scroll.js" defer></script>
+
+</body>
+</html>
